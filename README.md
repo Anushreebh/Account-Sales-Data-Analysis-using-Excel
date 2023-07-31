@@ -1,5 +1,5 @@
-## Data-Analysis-using-Excel
-Account Sales Data Analysis Dashboard - Summary
+# Data-Analysis-using-Excel
+## Account Sales Data Analysis Dashboard - Summary
 
 ### Over a span of 5 years, sales growth is highest in online retailer account type.
 
